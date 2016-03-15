@@ -5,5 +5,5 @@ RUN npm i -g strongloop
 
 ENV PORT 3000
 
-EXPOSE 3000 3001 4000
+EXPOSE 3000-3005
 
